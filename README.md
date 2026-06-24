@@ -1,4 +1,4 @@
-🏅# Global Medals for Olympics (1990–2012) – Data Analysis Dashboard
+# Global Medals for Olympics (1990–2012) – Data Analysis Dashboard
 
 This project presents an interactive analysis of Olympic medal trends across countries from 1990 to 2012. The dashboard was created to explore medal distribution, identify top-performing nations, and uncover patterns in Olympic performance using data visualization techniques.
 
